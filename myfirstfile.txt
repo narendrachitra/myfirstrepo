@@ -3,3 +3,5 @@ This my first file commiting to Github
 my first edit to existing code
 
 my second edit to exisiting code
+
+code changes to component-1
